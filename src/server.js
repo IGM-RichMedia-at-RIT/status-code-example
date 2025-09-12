@@ -1,5 +1,4 @@
 const http = require('http');
-const query = require('querystring');
 const htmlHandler = require('./htmlResponses.js');
 const jsonHandler = require('./jsonResponses.js');
 
